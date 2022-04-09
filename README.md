@@ -1,3 +1,8 @@
+1. The user should be able to choose the material examples in a menu, in order to show the menu of material components.
+
+    1.1. when the user choose the first slider example, the app show the slider example.
+
+
 # AngularMaterial2022
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
